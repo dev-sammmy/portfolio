@@ -1,0 +1,234 @@
+body {
+    margin: 0;
+    padding: 0;
+    align-items: center;
+    width: auto;
+}
+
+.nav{
+    display: flex;
+    width: 100%;
+}
+.heading{
+    width: 60%;
+    height: 80px;
+    text-align: left;
+    padding-left: 60px;
+}
+.nvlink {
+    width: 40%;
+    height: 80px;
+}
+.nvlink ul{
+    font-size: 20px;
+    list-style-type: none;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #25282B;
+    font-weight: bold;
+    padding:0px;
+    margin:0px;
+    align-items: center;
+    overflow: hidden;
+}
+.nvlink li{
+    float: left;
+}
+ul a{
+    color: black;   
+    text-decoration: none;
+    display: block;
+    text-align: center;
+    padding-left: 50px;
+}
+ul a:hover{
+    color:#FDC435;
+}
+.containor{
+    margin-top:40px;
+    height: 600px;
+    width: 92%;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+}
+.d1{
+    width: 55%;
+    height: 524px;
+}
+.hh{
+    font-size: 50px;
+    margin-left: 100px;
+    margin-top: 130px;
+}
+.pp{
+    margin-left: 100px;
+    margin-right: 70px;
+    font-size: 25px;
+
+}
+.image{
+    width: 45%;
+    height: 524px;
+}
+.img{
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.bb{
+    background-color: #FDC435;
+    color: black;
+    border-radius: 5px;
+    border: none;
+    height: 44px;
+    width: 114px;
+    margin-top: 5px;
+    margin-left: 100px;
+    font-weight: bolder;
+}
+.bb:hover{
+    background-color:red;
+}
+
+
+
+.projects{
+    width: auto;
+    height: auto;
+    align-items: center;
+    overflow: hidden;
+}
+.projects h1 {
+    color: black;
+    font-size: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular';
+    text-align: center;
+}
+.line{
+    width: 120px; /* set the desired length of the line */
+      height: 3px; /* set the height of the line */
+      background-color:#FDC435; /* set the color of the line */
+      margin-left: 612px;
+      margin-top: -25px;
+}
+.container{
+    width: 992px;
+    height: 524px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    margin-top: 100px;
+    border-radius: 10px;
+} 
+.containe{
+    width: 992px;
+    height: 524px;  
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-direction: row-reverse;
+    margin-top: 100px;
+    border-radius: 10px;
+} 
+.condiv{
+    width: 496px;
+    height: 524px;
+    align-items: center;
+}
+.divcon{
+    margin-top: 150px;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.condivh1{
+    color: black;
+    text-align: left;
+    font-size: 40px;
+}
+.condivp{
+    text-align: left;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.condivb{
+    margin-top: 25px;
+    border-radius:30px;
+    width: 200px;
+    height: 60px;
+    
+    text-align: center;
+    font-size: 18px;
+}
+.icon{
+    width: 200px;
+    height: 110px;
+    align-items: center;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 100px;
+    margin-bottom: 60px;
+    display: flex;
+}
+.i1{
+    margin-left: 13px;
+    width: 48px;
+    height: 48px;
+}
+.endp{
+    text-align: center;
+    margin-top: -70px;
+}
+.form{
+    margin-left: auto;
+    margin-right: auto;
+}
+.input-n{
+    border: none;
+    background-color: antiquewhite;
+
+    box-shadow: inset;
+    width: 250px;
+    height: 30px;
+}
+.input-e{
+    border: none;
+    background-color: antiquewhite;
+    box-shadow: inset;
+    width: 250px;
+    height: 30px;
+}
+.message{
+    width: 250px;
+    background-color: antiquewhite;
+    height: 250px;
+    border: none;
+}
+.b1{
+    background-color: #FDC435;
+    color: black;
+    border-radius: 5px;
+    border: none;
+    height: 42px;
+    width: 90px;
+    margin-top: 5px;
+    margin-left: 160px;
+    font-weight: bolder;
+}
+.b1:hover{
+    background-color: aqua;
+}
+.con{
+    width: 992px;
+    height: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    margin-top: 100px;
+    border-radius: 10px;
+} 
+.vec{
+    width: 100%;
+    overflow: hidden;
+    margin-bottom: -15px;
+    padding-bottom: 0px;
+}
